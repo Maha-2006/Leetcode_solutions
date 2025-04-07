@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
