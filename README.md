@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -124,8 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
