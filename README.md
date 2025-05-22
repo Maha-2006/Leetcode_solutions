@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
+| [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
