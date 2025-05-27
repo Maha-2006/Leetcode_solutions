@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Sorting
 |  |
