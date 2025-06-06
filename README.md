@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
 ## Graph
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
