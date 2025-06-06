@@ -1,22 +1,35 @@
 class Solution {
 public:
-    string robotWithString(string s) {
-        unordered_map<char,int>cnt;
-        int n = s.length();
-        for(char c:s) cnt[c]++;
+string robotWithString(string s){
+    int n = s.length();
 
-        stack<char> st;
-        char minCh = 'a';
-        string res = "";
-        for(char c: s){
-            st.push(c);
-            cnt[c]--;
-            while(minCh!='z' && cnt[minCh]==0) minCh++;
-            while(!st.empty() && st.top()<=minCh){
-                res += st.top();
-                st.pop();
-            }
+    vector<char> minCharToRight(n);
+
+    minCharToRight[n-1] = s[n-1];
+    for(int i=n-2;i>=0;i--){
+        minCharToRight[i] = min(s[i],minCharToRight[i+1]);
+    }
+
+    string t = "";
+    string paper = "";
+
+    int i = 0;
+    while(i<n){
+        t.push_back(s[i]);
+
+        char minChar = (i+1<n)? minCharToRight[i+1]: s[i];
+
+        while(!t.empty() && t.back()<=minChar){
+            paper += t.back();
+            t.pop_back();
         }
-        return res;
+        i++;
+    }
+    while(!t.empty()){
+        paper += t.back();
+        t.pop_back();
+    }
+    return paper;
+
     }
 };
