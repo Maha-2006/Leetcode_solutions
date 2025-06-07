@@ -1,36 +1,27 @@
 class Solution {
 public:
-    typedef pair<char, int> P;
-
-    struct comp{
-        bool operator()(P &p1, P& p2){
-            if(p1.first==p2.first){
-                return p1.second<p2.second;
-            }
-            return p1.first>p2.first;
-        }
-    };
     string clearStars(string s) {
-      int n = s.length();
+        unordered_set<int> toRemove;
+        unordered_map<char, vector<int>> mp;
 
-      priority_queue<P, vector<P>, comp> pq;
-
-      for(int i=0;i<n;i++){
-        if(s[i]!='*'){
-            pq.push({s[i],i});
-        }else{
-            int idx = pq.top().second;
-            pq.pop();
-            s[idx] ='*';
-         }
-      }
-
-      string result = "";
-      for(int i=0;i<n;i++){
-        if(s[i]!='*'){
-            result.push_back(s[i]);
+        int n = s.length();
+        for(int i=0;i<n;i++){
+        if(s[i] == '*'){
+            for(char ch = 'a';ch<='z' ; ch++){
+                if(mp[ch].size()!=0){
+                    toRemove.insert(mp[ch].back());
+                    mp[ch].pop_back();
+                    break;
+                }
+            }
+        } else{
+            mp[s[i]].push_back(i);
         }
-      }  
-        return  result;
     }
+    string res = "";
+    for(int i=0;i<n;i++){
+        if(!toRemove.contains(i) && s[i]!= '*') res+=s[i];
+    }
+    return res;
+}
 };
