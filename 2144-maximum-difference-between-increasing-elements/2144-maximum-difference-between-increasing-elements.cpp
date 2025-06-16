@@ -11,9 +11,9 @@ public:
                 maxDiff = max(maxDiff,nums[j]-elements);
             }
             else{
-                 elements = nums[j];
+                elements = nums[j];
             }
         }
-     return maxDiff;
+        return maxDiff;
     }
 };
