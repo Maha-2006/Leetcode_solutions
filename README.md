@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
