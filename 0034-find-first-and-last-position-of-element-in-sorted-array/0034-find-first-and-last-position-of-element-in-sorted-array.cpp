@@ -1,12 +1,49 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int left_Index = lower_bound(nums.begin(),nums.end(),target)-nums.begin();
-        int right_Index = upper_bound(nums.begin(),nums.end(),target)-nums.begin();
-
-        if(left_Index==right_Index){
-            return {-1,-1};
+    int find_first_position(vector<int>& nums, int target) {
+        int left=0,right=nums.size()-1;
+        int result = -1;
+        while(left<=right)
+        {
+            int mid = left+(right-left)/2;
+            if(nums[mid]==target)
+            {
+                result = mid;
+                right = mid-1;
+            }else if(nums[mid]>target)
+            {
+                right = mid - 1;
+            }
+            else{
+                left = mid+1;
+            }
         }
-        return {left_Index,right_Index-1};
+        return result;
+    }
+    
+
+    int find_last_position(vector<int>&nums,int target){
+        int left=0,right = nums.size()-1;
+        int result = -1;
+        while(left<=right){
+            int mid = left+(right-left)/2;
+            if(nums[mid]==target)
+            {
+                result = mid;
+                left = mid+1;
+            }else if(nums[mid]<target)
+            {
+                left = mid+1;
+            }else{
+                right = mid-1;
+            }
+        }
+        return result;
+    }
+    vector<int> searchRange(vector<int>&nums,int target){
+        int left = find_first_position(nums,target);
+        int right = find_last_position(nums,target);
+
+        return {left,right};
     }
 };
