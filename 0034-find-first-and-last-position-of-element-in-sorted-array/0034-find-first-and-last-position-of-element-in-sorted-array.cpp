@@ -12,7 +12,7 @@ public:
                 right = mid-1;
             }else if(nums[mid]>target)
             {
-                right = mid - 1;
+                right = mid - 1;//left occurence
             }
             else{
                 left = mid+1;
@@ -30,7 +30,7 @@ public:
             if(nums[mid]==target)
             {
                 result = mid;
-                left = mid+1;
+                left = mid+1; // right occurence
             }else if(nums[mid]<target)
             {
                 left = mid+1;
