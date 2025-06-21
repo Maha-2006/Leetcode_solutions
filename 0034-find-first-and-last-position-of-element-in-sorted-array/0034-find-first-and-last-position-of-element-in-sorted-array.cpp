@@ -1,27 +1,12 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int first = -1, last = -1;
-        int n = nums.size();
-        for(int i=0;i<n;i++)
-        {
-            if(nums[i]==target)
-            {
-                first = i;
-                break;
-            }
-            
-        }
+        int left_Index = lower_bound(nums.begin(),nums.end(),target)-nums.begin();
+        int right_Index = lower_bound(nums.begin(),nums.end(),target+1)-nums.begin();
 
-        for(int i=n-1;i>=0;i--)
-        {
-            if(nums[i]==target)
-            {
-                last = i;
-                break;
-            }
+        if(left_Index==right_Index){
+            return {-1,-1};
         }
-    return {first,last};
-        
+        return {left_Index,right_Index-1};
     }
 };
