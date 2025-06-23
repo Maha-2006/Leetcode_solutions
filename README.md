@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
