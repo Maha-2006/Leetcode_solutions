@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0792-binary-search) |
