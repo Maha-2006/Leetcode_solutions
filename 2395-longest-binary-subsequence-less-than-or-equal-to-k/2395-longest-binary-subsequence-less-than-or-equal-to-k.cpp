@@ -13,7 +13,7 @@ public:
         for(int i=n-1;i>=0;--i){
             if(s[i]=='1'){
                 if(power<64){
-                    sum += pow(2,power);
+                    sum += (1LL << power);
                     if(sum<=k){
                         cntOnes++;
                     }else break;
