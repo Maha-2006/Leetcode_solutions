@@ -7,7 +7,7 @@ public:
 
         while(low<=high){
             long long mid = (low+high)/2;
-            long long th = 0;
+            long long th = 0; //th = totalhours
         
         for(int bananas: piles){
             th += (bananas+mid-1)/mid;
