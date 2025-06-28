@@ -8,12 +8,12 @@ public:
 
         for(int i=0;i<k;i++)
         mp[nums[i]]++;
+    
 
-        for(auto it:temp)
-        {
-            if(mp[it]-->0)
-               ans.push_back(it);
-        }
+    for(int i=0;i<temp.size();i++){
+        if(mp[temp[i]]-->0)
+        ans.push_back(temp[i]);
+    }
         return ans;
     }
 };
