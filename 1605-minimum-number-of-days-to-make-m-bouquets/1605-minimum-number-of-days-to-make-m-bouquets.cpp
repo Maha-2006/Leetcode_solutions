@@ -11,8 +11,8 @@ public:
             int mid = (low+high) /2;
             int cnt = 0, boq=0;
 
-            for(int bloom : bloomDay){
-                if(bloom <= mid) cnt++;
+            for(int i=0;i<n;i++){
+                if(bloomDay[i] <= mid) cnt++;
                 else cnt = 0;
 
                 if(cnt == k){
