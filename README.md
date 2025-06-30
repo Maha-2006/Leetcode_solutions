@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
