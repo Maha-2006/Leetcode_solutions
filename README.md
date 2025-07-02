@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1013-fibonacci-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
