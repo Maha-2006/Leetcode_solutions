@@ -1,20 +1,11 @@
+#define ll long long
 class Solution {
 public:
     char kthCharacter(long long k, vector<int>& operations) {
-        long long len = 1;
-        int it = 0;
-        while(len<k){
-            len *= 2;
-            it++;
+        long long mask = 0;
+        for(int i=0;i<min(63,(int)operations.size());i++){
+            mask |= (1ll * operations[i]<<i);
         }
-        int cnt = 0;
-        while(k>1){
-            if(k>len/2 && operations[it-1]==1){
-                cnt++;
-            }
-            if(k>len/2) k-= (1ll<<(it-1));
-            it--; len/=2;
-        }
-        return 'a' + cnt%26;
+        return 'a' + (__builtin_popcountll((k-1)&mask))%26;
     }
 };
