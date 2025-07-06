@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
