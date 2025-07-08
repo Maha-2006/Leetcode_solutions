@@ -15,10 +15,10 @@ public:
 
             int l1 = INT_MIN, l2 = INT_MIN;
             int r1 = INT_MAX, r2 = INT_MAX;
-            if(mid1<n1) r1 = nums1[mid1];
-            if(mid2<n2) r2 = nums2[mid2];
-            if(mid1-1>=0)l1 = nums1[mid1-1];
-            if(mid2-1>=0)l2 = nums2[mid2-1];
+            if(mid1<n1) r1 = nums1[mid1];//assign r1
+            if(mid2<n2) r2 = nums2[mid2];//assign r2
+            if(mid1-1>=0)l1 = nums1[mid1-1];//assign l1
+            if(mid2-1>=0)l2 = nums2[mid2-1];//assignl2
 
             if(l1<=r2 && l2<=r1){
                 if(n%2==1) return max(l1,l2);//for odd
