@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0415-add-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
