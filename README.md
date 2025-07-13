@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
