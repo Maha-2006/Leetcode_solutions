@@ -10,32 +10,14 @@
  */
 class Solution {
 public:
-
-ListNode* reverseLL(ListNode*head){
-    ListNode*prev = nullptr;
-    while(head){
-        ListNode*nextNode = head->next;
-        head->next = prev;
-        prev = head;
-        head = nextNode;
-    }
-    return prev;
-}
-
-
     int getDecimalValue(ListNode* head) {
-        head = reverseLL(head);
-
         int result = 0;
-        int power = 0;
+
         while(head){
-            if(head->val==1){
-                result += pow(2,power);
-            }
-            power++;
+            result = (result<<1)|(head->val);
+
             head = head->next;
         }
         return result;
     }
-
 };
