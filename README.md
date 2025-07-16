@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Shortest Path
 |  |
