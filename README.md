@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2793-count-the-number-of-complete-components](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Recursion
 |  |
 | ------- |
