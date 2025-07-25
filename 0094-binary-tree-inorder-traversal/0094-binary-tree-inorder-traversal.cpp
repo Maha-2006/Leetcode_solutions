@@ -15,7 +15,7 @@ void Inorder(TreeNode*root, vector<int>&result){
     if(root==nullptr) return;
 
     Inorder(root->left,result);
-    result.push_back(root->val);
+    result.push_back(root->val); // data is stored at the center 
     Inorder(root->right,result);
 }
     vector<int> inorderTraversal(TreeNode* root) {
