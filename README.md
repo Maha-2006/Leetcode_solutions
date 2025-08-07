@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
 | ------- |
