@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
