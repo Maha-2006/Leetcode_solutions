@@ -1,6 +1,6 @@
 class Solution {
 public:
-string getSortedStr(int n){
+        string getSortedStr(int n){
     string s = to_string(n);
     sort(begin(s),end(s));
     return s;
@@ -14,4 +14,5 @@ string getSortedStr(int n){
         }
         return false;
     }
+
 };
