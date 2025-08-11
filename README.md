@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maha-2006/Leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
