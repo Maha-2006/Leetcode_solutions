@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
