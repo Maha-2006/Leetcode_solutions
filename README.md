@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Maha-2006/Leetcode_solutions/tree/master/0868-push-dominoes) |
